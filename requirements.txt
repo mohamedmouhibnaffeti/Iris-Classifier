@@ -1,0 +1,4 @@
+scikit-learn==1.2.2
+fastapi==0.112.0
+numpy==1.24.2
+uvicorn
